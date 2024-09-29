@@ -1,6 +1,7 @@
+package Patstavigsdarbs;
 import java.util.Scanner;
 
-public class Patstavigsdarbs {
+public class Main {
     public static void patstavigsdarbs(String[] args) {
         Scanner sc = new Scanner(System.in);
         double s, i;

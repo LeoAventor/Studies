@@ -1,3 +1,4 @@
+package Mainigie;
 import java.util.Scanner;
 
 class Main {

@@ -1,6 +1,8 @@
+package Tris_skaitlu_vert;
+
 import java.util.Scanner;
 
-public class tris_skaitlu_vert {
+public class Main {
     public static void main(String[] args) {
         double a, b, c;
         Scanner sc = new Scanner(System.in);

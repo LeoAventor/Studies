@@ -1,3 +1,4 @@
+package Absoluta_vertiba;
 /*
 // 1.variants
 import java.util.Scanner;
@@ -18,7 +19,7 @@ public class Absoluta_vertiba {
 
 import java.util.Scanner;
 
-public class Absoluta_vertiba {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Ievadiet x vertibu: ");
